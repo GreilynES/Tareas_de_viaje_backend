@@ -1,0 +1,6 @@
+@API_TAREAS_DE_VIAJE_HostAddress = http://localhost:5268
+
+GET {{API_TAREAS_DE_VIAJE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
